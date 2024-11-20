@@ -1,11 +1,11 @@
 #Create a program that ask user for personal information.
 # Minimum of 5 information per person, more info the better. eg. Fullname, Address, etc.
 with open("./output.txt", "a") as file_info :
-    var1 = (input("please input name "))
-    var2 = (input("please input age "))
-    var3 = (input("please input birthday "))
-    var4 = (input("please input address "))
-    var5 = (input("please input number "))
+    (input("please input name "))
+    (input("please input age "))
+    (input("please input birthday "))
+    (input("please input address "))
+    (input("please input number "))
     
     print(file_info)
 
